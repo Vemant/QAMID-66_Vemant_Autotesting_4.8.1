@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/mwvs239ajnsrbxak?svg=true)](https://ci.appveyor.com/project/Vemant/qamid-66-vemant-autotesting-4-8-1)
